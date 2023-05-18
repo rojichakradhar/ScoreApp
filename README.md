@@ -1,6 +1,7 @@
 # scoreapp
 
 A new Flutter project.
+In this project you see the interface having counter button.
 
 ## Getting Started
 
